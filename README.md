@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently improving my NodeJS ...
-
+### 🌱 I’m a Backend Software Engineer  ...
+I'm familiar with NodeJS and I'm open to internship/graduate-trainee roles. 
 <!--
 **willingtoeatyam/willingtoeatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
