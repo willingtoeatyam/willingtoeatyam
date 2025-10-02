@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 ### 🌱 I’m a Java Developer currently getting a Masters in Computer Science from Northumbria University  ...
 I am interested in Jacva related roles. 
-<!--
+
 **willingtoeatyam/willingtoeatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
